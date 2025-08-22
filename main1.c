@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Enter any number\n");
+    printf("Enter a number\n");
     int x;
     scanf("%d", &x);
     printf("Enter nth bit to toggle (0-31): ");
